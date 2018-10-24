@@ -10,4 +10,6 @@ install_from_swirl("Getting and Cleaning Data")
 
 install_from_swirl("Exploratory Data Analysis")
 
+install_from_swirl("Statistical Inference")
+
 swirl()
